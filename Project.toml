@@ -13,7 +13,7 @@ YAML = "ddb6d928-2868-570f-bddf-ab3f9cf99eb6"
 ZygoteRules = "700de1a5-db45-46bc-99cf-38207098b444"
 
 [compat]
-NNlib = "0.6"
+NNlib = "0.6, 0.7"
 Requires = "1"
 YAML = "0.3, 0.4"
 ZygoteRules = "0"
